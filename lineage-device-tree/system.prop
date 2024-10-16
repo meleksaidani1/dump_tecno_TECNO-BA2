@@ -1,0 +1,59 @@
+# Audio
+ro.audio.silent=0
+
+# Display
+ro.opengles.version=131072
+
+# Radio
+rild.libargs=-d /dev/ttyC0
+rild.libpath=mtk-ril.so
+
+# Wi-Fi
+ro.wifi.channels=
+wifi.direct.interface=p2p0
+wifi.interface=wlan0
+wifi.tethering.interface=ap0
+
+# Miscellaneous
+dalvik.vm.stack-trace-dir=/data/anr
+dalvik.vm.systemservercompilerfilter=speed-profile
+debug.hwui.render_dirty_regions=false
+mediatek.wlan.ctia=0
+net.bt.name=Android
+persist.midtest.ps.noise.max=100
+persist.midtest.ps.noise.min=0
+persist.sys.dalvik.vm.lib.2=libart.so
+qemu.hw.mainkeys=0
+ro.apdb.release.version=BA2-H8027ABC-OGo-210319V543
+ro.camera.sound.forced=0
+ro.config.media_vol_default = 13
+ro.expect.recovery_id=0x711325abf91db3fa8f12f9f605d83ab4f472c228000000000000000000000000
+ro.kernel.zio=38,108,105,16
+ro.mediatek.version.release=BA2-H8027ABC-OGo-210319V543
+ro.mediatek.wlan.p2p=1
+ro.mediatek.wlan.wsc=1
+ro.probenchflag.lid=73
+ro.product.cpu.abi2=armeabi
+ro.proinfo.activationstatus =950
+ro.proinfo.activationtime=946
+ro.proinfo.cam_multiparameter =944
+ro.proinfo.demophone =945
+ro.proinfo.enable_factory=818
+ro.proinfo.lid=61
+ro.proinfo.limit_app_status =816
+ro.proinfo.limit_app_status_1 =820
+ro.proinfo.midtest=952
+ro.proinfo.restore_factory_set =817
+ro.proinfo.skip_oobe=819
+ro.proinfo.usbdebug=951
+ro.rlk.fingerprint=TECNO/H8027/TECNO-BA2:8.1.0/O11019/ABC-210319V543:user/release-keys
+ro.rlk.projectname=ba2_h8027
+ro.rlk.versionnumber=BA2-H8027ABC-OGo-210319V543
+ro.sys.usb.bicr=no
+ro.sys.usb.charging.only=yes
+ro.sys.usb.mtp.whql.enable=0
+ro.sys.usb.storage.type=mtp
+ro.transsion.device.name=TECNO POP 2 Plus
+ro.zygote.preload.enable=0
+sys.ipo.pwrdncap=2
+

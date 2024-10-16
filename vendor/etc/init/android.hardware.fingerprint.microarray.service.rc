@@ -1,0 +1,4 @@
+
+on fs
+    chmod 0666 /dev/madev0
+    chown system system /dev/madev0

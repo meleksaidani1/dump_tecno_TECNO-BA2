@@ -1,0 +1,20 @@
+## full_ba2_h8027-user 8.1.0 O11019 1616144031 release-keys
+- Manufacturer: tecno mobile limited
+- Platform: mt6580
+- Codename: TECNO-BA2
+- Brand: TECNO
+- Flavor: user
+- Release Version: 8.1.0
+- Kernel Version: 3.18.79
+- Id: O11019
+- Incremental: ABC-210319V543
+- Tags: release-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: TECNO/H8027/TECNO-BA2:8.1.0/O11019/ABC-210319V543:user/release-keys
+- OTA version: 
+- Branch: full_ba2_h8027-user-8.1.0-O11019-1616144031-release-keys
+- Repo: tecno_tecno-ba2_dump

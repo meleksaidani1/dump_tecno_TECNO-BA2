@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SmsDbVisitor version="1">
+<SmsDbVisitor package="com.mediatek.datatransfer"/>
+<SmsDbVisitor package="com.mediatek.op18.plugin"/>
+<SmsDbVisitor package="com.mediatek.apst.target"/>
+<SmsDbVisitor package="com.mediatek.backuprestore"/>
+<SmsDbVisitor package="com.mediatek.ppl"/>
+<SmsDbVisitor package="com.mediatek.rcs.messageservice"/>
+<SmsDbVisitor package="com.mediatek.omacp"/>
+<!-- infinix : modify XLLLHBLES-3642 by zhoujinhua 2018/2/25 start-->
+<SmsDbVisitor package="com.transsion.statisticalsales"/>
+<!-- infinix : modify XLLLHBLES-3642 by zhoujinhua 2018/2/25 end-->
+</SmsDbVisitor>
